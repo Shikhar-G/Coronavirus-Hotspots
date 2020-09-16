@@ -1,5 +1,4 @@
 # Finding Coronavirus Hotspots in Texas
-*This is the end of course project for the IBM Data Science Professional Certificate.*
 
 In this project, I use exploratory data analysis and machine learning techniques to examine the contribution of different types of popular venues to the Coronavirus infection rate, and I also score and rank the most "dangerous" types of venues based on my findings.
 
